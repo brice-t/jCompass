@@ -61,7 +61,7 @@ You can configure jCompass's behviour regarding compilation:
     ; always|onchange|once
     CSSprepro_jCompass_compile=always
 
-If CSSprepro\_jPhpsass\_compile's value is not valid or empty, its default value is onchange.
+If CSSprepro\_jCompass\_compile's value is not valid or empty, its default value is onchange.
 
 * always : compile Compass file on all requests
 * onchange : compile Compass file only if it has changed
